@@ -1,0 +1,54 @@
+
+int b = 0;
+int celsius =0;
+void setup()
+{
+  pinMode(12,OUTPUT);
+  pinMode(11,OUTPUT);
+  pinMode(3,OUTPUT);
+  pinMode(2,INPUT);
+  pinMode(10,OUTPUT);
+  pinMode(A3,INPUT);
+  Serial.begin(9600);
+  
+}
+  
+void loop()
+{
+ int b = 40;
+ celsius = map(((analogRead(A3) - 20) * 3.04), 0, 1023, -40, 125);
+ float dur = pulseIn(2,HIGH);
+ float dis =(dur*0.0343)/2;
+ Serial.println(dis);
+ Serial.println(celsius);
+  if(dis>50.00){
+   
+    digitalWrite(8,HIGH);
+    digitalWrite(12,HIGH);
+    delay(1000);}
+  else{
+    digitalWrite(8,LOW);
+    digitalWrite(12,LOW);
+    delay(1000);}
+  
+  if(celsius>b){
+    digitalWrite(13,HIGH);
+    delay(1000);
+    digitalWrite(8,HIGH);
+    delay(2000);
+    digitalWrite(8,LOW);
+  }
+  else{
+    digitalWrite(11,HIGH);
+    delay(1000);}
+  
+    
+  digitalWrite(13,HIGH);
+  delay(1000);
+  digitalWrite(13,LOW);
+  delay(1000);
+  digitalWrite(12,HIGH);
+  delay(1000);
+  digitalWrite(12,LOW);
+  delay(1000);
+} 
