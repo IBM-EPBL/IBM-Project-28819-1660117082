@@ -1,0 +1,47 @@
+
+void setup()
+{
+  pinMode(13, OUTPUT);//led
+  pinMode(2, OUTPUT);//buzzer
+  pinMode(3, OUTPUT);//trigger
+  pinMode(4, INPUT);//echo
+  pinMode(5, INPUT);//pir
+  pinMode(A5, INPUT);//temp
+  Serial.begin(9600);
+}
+
+void loop()
+{
+  double a = analogRead(A5);
+  double c = (((a/1024)*5)-0.5)*100;
+  int pirdude = digitalRead(5);
+  digitalWrite(3,LOW);
+  digitalWrite(3,HIGH);
+  delay(10);
+  digitalWrite(3,LOW);
+  float dur = pulseIn(4,HIGH);
+  float dis = (dur*0.0343)/2;
+  int b = digitalRead(5);
+  Serial.print(c);
+  Serial.print(" C, ");
+  Serial.print(dis);
+  Serial.print(" dist, ");
+  Serial.print(b);
+  Serial.print(" pir, ");
+  if (dis<200){
+    digitalWrite(13,HIGH);
+    delay(2000);
+    digitalWrite(13,LOW);
+  }
+  
+  if (c>34.00){
+    digitalWrite(2,HIGH);
+    delay(2000);
+    digitalWrite(2,LOW);
+  }
+  if (a==HIGH){
+    digitalWrite(2,HIGH);
+    delay(3000);
+    digitalWrite(2,LOW);
+  }
+}
