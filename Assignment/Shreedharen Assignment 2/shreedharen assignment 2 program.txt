@@ -1,0 +1,9 @@
+import random
+while(True):
+    temp=random.randint(5,100)
+    hum=random.randint(5,100)
+    if(temp>15 and hum>80):
+        print("HIGH TEMPERATURE AND HUMIDITY OF:",temp,hum,"%","ALARM ON")
+    elif(temp<15 and hum<80):
+        print("CURRENT TEMPERATURE AND HUMIDITY OF:",temp,hum,"%","ALARM ON")
+        break
