@@ -1,0 +1,9 @@
+import random
+while(True):
+    vari_1=random.randint(10,150)
+    vari_2=random.randint(10,150)
+    if(vari_1>40 and vari_2>80):
+      print("Detect High Temperature&Humidity of:",vari_1,vari_2,"%","Alarm ON")
+    elif(vari_1<30 and vari_2<80):
+      print("Detect High Temperature&Humidity of:",vari_1,vari_2,"%","Alarm OFF")  
+      break;
