@@ -9,11 +9,7 @@
 <h2>PROJECT DESIGN AND PLANNING:</h2>
   <h3>IDEATION PHASE</h3>
       <h3>Ideation is the process where you generate ideas and solutions through sessions such as Sketching, Prototyping, Brainstorming, Brainwriting, Worst Possible Idea, and a wealth of other ideation techniques.</h3>
-- [x] Literature Survey
-- [x] Problem Statement
-- [x] Empathy Map
-- [x] Brainstorm
-- [x] Top 3 Ideas
+
 
 
 
