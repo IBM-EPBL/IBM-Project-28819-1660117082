@@ -7,7 +7,7 @@
 <h3>This smart agriculture using IOT system is powered by Arduino, it consists of Temperature sensor, Moisture sensor, water level sensor, DC motor and GPRS module. When the IOT based agriculture monitoring system starts it checks the water level, humidity and moisture level</h3>
 <h3>IoT smart farming solutions is a system that is built for monitoring the crop field with the help of sensors (light, humidity, temperature, soil moisture, crop health, etc.) and automating the irrigation system. The farmers can monitor the field conditions from anywhere.</h3>
 <h3>PROJECT DESIGN AND PLANNING:</h3>
-IDEATION PHASE
+  <h2>IDEATION PHASE</h2>
 
 
 
