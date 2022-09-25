@@ -3,6 +3,6 @@
 # SmartFarmer IOT Enabled Smart Farming Application:palm_tree:
 :rocket:TECHNOLOGY : INTERNET OF THINGS            
 :rocket:TEAM ID  : PNT2022TMID28579
-
+# :ear_of_rice: 
  
 
