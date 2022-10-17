@@ -12,7 +12,7 @@
 <b>SHREEDHAREN  -  https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Assignment/Shreedharen</b>          
 <b>SELVARAJ     -  https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Assignment/Sreedhar</b>          
 <b>SHREEDHAR   -  https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Assignment/Sreedhar</b>             
-<h3>IDEATION PHASE</h3>
+<h2>IDEATION PHASE</h2>
       <h3>Ideation is the process where you generate ideas and solutions through sessions such as Sketching, Prototyping, Brainstorming, Brainwriting, Worst Possible Idea, and a wealth of other ideation techniques.</h3>
-  <h3><b>BRAINSTROMING:</b></h3>
+  <h2><b>BRAINSTROMING:</b></h2>
       Brainstorming is a method of generating ideas and sharing knowledge to solve a particular commercial or technical problem, in which participants are encouraged to think without interruption. Brainstorming is a group activity where each participant shares their ideas as soon as they come to mind.
