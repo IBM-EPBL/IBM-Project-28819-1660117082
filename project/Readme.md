@@ -23,3 +23,10 @@
   <h2><b>PROBLEM STATEMENT:</b></h2>
       <h3>A problem statement is a concise description of an issue to be addressed or a condition to be improved upon. It identifies the gap between the current (problem) state and desired (goal) state of a process or product. Focusing on the facts, the problem statement should be designed to address the Five Ws. The first condition of solving a problem is understanding the problem, which can be done by way of a problem statement</h3>
 <h1>PROJECT DESIGN PHASE I</h1>
+  <h2><b>PROBLEM SOLUTION FIT:</b></h2>
+        <h3>Problem-Solution Fit - this occurs when you have evidence that customers care about certain jobs, pains, and gains. At this stage you've proved the existence of a problem and have designed a value proposition that addresses your customers' jobs, pains and gains</h3>
+  <h2><b>PROPOSED SOLUTION:</b></h2>
+        <h3>Your proposed solution should relate the current situation to a desired result and describe the benefits that will accrue when the desired result is achieved. So, begin your proposed solution by briefly describing this desired result</h3>
+  <h2><b>SOLUTION ARCHITECTURE:</b></h2>
+        <h3>A solution architecture (SA) is an architectural description of a specific solution. SAs combine guidance from different enterprise architecture viewpoints (business, information and technical), as well as from the enterprise solution architecture (ESA).</h3>
+        
