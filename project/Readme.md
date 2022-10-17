@@ -16,5 +16,9 @@
       <h3>Ideation is the process where you generate ideas and solutions through sessions such as Sketching, Prototyping, Brainstorming, Brainwriting, Worst Possible Idea, and a wealth of other ideation techniques.</h3>
   <h2><b>BRAINSTROMING:</b></h2>
       <h3>Brainstorming is a method of generating ideas and sharing knowledge to solve a particular commercial or technical problem, in which participants are encouraged to think without interruption. Brainstorming is a group activity where each participant shares their ideas as soon as they come to mind.</h3>
-![image](https://user-images.githubusercontent.com/92423989/196203314-8e60dd4d-ba3f-4b64-8eb9-bbdfdd3e27c7.png)
-
+  <h2><b>EMPATHY MAP:</b></h2>
+      <h3>An empathy map is a collaborative tool teams can use to gain a deeper insight into their customers. Much like a user persona, an empathy map can represent a group of users, such as a customer segment. The empathy map was originally created by Dave Gray and has gained much popularity within the agile community<h3>
+  <h2><b>LITERATURE SURVEY:</b></h2>
+      <h3>A literature review is a survey of scholarly sources (such as books, journal articles, and theses) related to a specific topic or research question. It is often written as part of a thesis, dissertation, or research paper, in order to situate your work in relation to existing knowledge.</h3>
+  <h2><b>PROBLEM STATEMENT:</b></h2>
+      <h3>A problem statement is a concise description of an issue to be addressed or a condition to be improved upon. It identifies the gap between the current (problem) state and desired (goal) state of a process or product. Focusing on the facts, the problem statement should be designed to address the Five Ws. The first condition of solving a problem is understanding the problem, which can be done by way of a problem statement</h3>
