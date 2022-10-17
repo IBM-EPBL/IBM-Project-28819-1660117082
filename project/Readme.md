@@ -16,4 +16,5 @@
       <h3>Ideation is the process where you generate ideas and solutions through sessions such as Sketching, Prototyping, Brainstorming, Brainwriting, Worst Possible Idea, and a wealth of other ideation techniques.</h3>
   <h2><b>BRAINSTROMING:</b></h2>
       <h3>Brainstorming is a method of generating ideas and sharing knowledge to solve a particular commercial or technical problem, in which participants are encouraged to think without interruption. Brainstorming is a group activity where each participant shares their ideas as soon as they come to mind.</h3>
-https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Brainstorming/Brainstorming%20%26%20Idea%20Prioritization.pdf
+![image](https://user-images.githubusercontent.com/92423989/196203314-8e60dd4d-ba3f-4b64-8eb9-bbdfdd3e27c7.png)
+
