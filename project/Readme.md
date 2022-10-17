@@ -16,18 +16,18 @@
       <h3>Ideation is the process where you generate ideas and solutions through sessions such as Sketching, Prototyping, Brainstorming, Brainwriting, Worst Possible Idea, and a wealth of other ideation techniques.</h3>
   <h2><b>BRAINSTROMING:</b></h2>
       <h3>Brainstorming is a method of generating ideas and sharing knowledge to solve a particular commercial or technical problem, in which participants are encouraged to think without interruption. Brainstorming is a group activity where each participant shares their ideas as soon as they come to mind.</h3>
-      ![Brainstorming   Idea Prioritization_page-0002](https://user-images.githubusercontent.com/92423989/196219143-c10b3cce-2dbe-4f08-8d93-1b59b1b5504f.jpg)
-      ![Brainstorming   Idea Prioritization_page-0003](https://user-images.githubusercontent.com/92423989/196219248-c5576bfd-3065-4cf8-bee5-fa2155f5e390.jpg)
+![Brainstorming   Idea Prioritization_page-0002](https://user-images.githubusercontent.com/92423989/196219143-c10b3cce-2dbe-4f08-8d93-1b59b1b5504f.jpg)
+![Brainstorming   Idea Prioritization_page-0003](https://user-images.githubusercontent.com/92423989/196219248-c5576bfd-3065-4cf8-bee5-fa2155f5e390.jpg)
   <h2><b>EMPATHY MAP:</b></h2>
       <h3>An empathy map is a collaborative tool teams can use to gain a deeper insight into their customers. Much like a user persona, an empathy map can represent a group of users, such as a customer segment. The empathy map was originally created by Dave Gray and has gained much popularity within the agile community<h3>
-      ![Empathy_Map_page-0001](https://user-images.githubusercontent.com/92423989/196219347-62eba869-f5a3-43b6-b8ba-0d240ec0c9c9.jpg)
+![Empathy_Map_page-0001](https://user-images.githubusercontent.com/92423989/196219347-62eba869-f5a3-43b6-b8ba-0d240ec0c9c9.jpg)
   <h2><b>LITERATURE SURVEY:</b></h2>
       <h3>A literature review is a survey of scholarly sources (such as books, journal articles, and theses) related to a specific topic or research question. It is often written as part of a thesis, dissertation, or research paper, in order to situate your work in relation to existing knowledge.</h3>
-    ![Literature Survey_page-0002](https://user-images.githubusercontent.com/92423989/196219438-ebbb7622-ad2e-441b-bf7e-d03bd5c2c057.jpg)
-    ![Literature Survey_page-0003](https://user-images.githubusercontent.com/92423989/196219465-0a6b3093-dcca-4cb7-9345-e499655f26ae.jpg)
+![Literature Survey_page-0002](https://user-images.githubusercontent.com/92423989/196219438-ebbb7622-ad2e-441b-bf7e-d03bd5c2c057.jpg)
+![Literature Survey_page-0003](https://user-images.githubusercontent.com/92423989/196219465-0a6b3093-dcca-4cb7-9345-e499655f26ae.jpg)
   <h2><b>PROBLEM STATEMENT:</b></h2>
       <h3>A problem statement is a concise description of an issue to be addressed or a condition to be improved upon. It identifies the gap between the current (problem) state and desired (goal) state of a process or product. Focusing on the facts, the problem statement should be designed to address the Five Ws. The first condition of solving a problem is understanding the problem, which can be done by way of a problem statement</h3>
-      ![Problem Statement_page-0002](https://user-images.githubusercontent.com/92423989/196219545-af90239d-599a-4f61-9483-393978f975ea.jpg)
+![Problem Statement_page-0002](https://user-images.githubusercontent.com/92423989/196219545-af90239d-599a-4f61-9483-393978f975ea.jpg)
 <h1>PROJECT DESIGN PHASE I</h1>
   <h2><b>PROBLEM SOLUTION FIT:</b></h2>
         <h3>Problem-Solution Fit - this occurs when you have evidence that customers care about certain jobs, pains, and gains. At this stage you've proved the existence of a problem and have designed a value proposition that addresses your customers' jobs, pains and gains</h3>
