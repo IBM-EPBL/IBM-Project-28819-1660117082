@@ -9,7 +9,7 @@
 <h2>PROJECT DESIGN AND PLANNING:</h2>
   <h3>IDEATION PHASE</h3>
       <h3>Ideation is the process where you generate ideas and solutions through sessions such as Sketching, Prototyping, Brainstorming, Brainwriting, Worst Possible Idea, and a wealth of other ideation techniques.</h3>
-  <h2> ASSIGNMENT:</h2> 
+  <h1> ASSIGNMENT:</h1> 
 <b>SHANMUGAM    -  https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Assignment/Shanmugam</b>
 <b>SHREEDHAREN  -  https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Assignment/Shreedharen</b>
 <b>SELVARAJ     -  https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Assignment/Sreedhar</b>
