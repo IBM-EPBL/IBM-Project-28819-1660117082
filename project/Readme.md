@@ -29,4 +29,13 @@
         <h3>Your proposed solution should relate the current situation to a desired result and describe the benefits that will accrue when the desired result is achieved. So, begin your proposed solution by briefly describing this desired result</h3>
   <h2><b>SOLUTION ARCHITECTURE:</b></h2>
         <h3>A solution architecture (SA) is an architectural description of a specific solution. SAs combine guidance from different enterprise architecture viewpoints (business, information and technical), as well as from the enterprise solution architecture (ESA).</h3>
-        
+<h1>PROJECT DESIGN PHASE II</h1>
+  <h2><b>CUSTOMER JOURNEY MAP:</b></h2>
+        <h3>A customer journey map is a visual storyline of every engagement a customer has with a service, brand, or product. The creation of a journey map puts the organization directly in the mind of the consumer, so they can see and understand their customer's processes, needs, and perceptions.</h3>
+  <h2><b>DATAFLOW DIAGRAM & USER STORIES:</b></h2>
+        <h3>A data flow diagram shows the way information flows through a process or system. It includes data inputs and outputs, data stores, and the various subprocesses the data moves through. DFDs are built using standardized symbols and notation to describe various entities and their relationships</h3>
+        <h3>A user story is an informal, general explanation of a software feature written from the perspective of the end user or customer. The purpose of a user story is to articulate how a piece of work will deliver a particular value back to the customer</h3>
+  <h2><b>SOLUTION REQUIREMENTS:</b></h2>
+        <h3>A solution requirement is aimed at the concerns of the people who will build and deliver the solution. It tells those people what the functional and non-functional requirements for the solution will be and how the solution will deliver on the business and stakeholder requirements</h3>
+  <h2><b>TECHNOLOGY STACK:</b></h2>
+        <h3>A tech stack is the combination of technologies a company uses to build and run an application or project. Sometimes called a “solutions stack,” a tech stack typically consists of programming languages, frameworks, a database, front-end tools, back-end tools, and applications connected via APIs</h3>
