@@ -16,7 +16,7 @@
       <h3>Ideation is the process where you generate ideas and solutions through sessions such as Sketching, Prototyping, Brainstorming, Brainwriting, Worst Possible Idea, and a wealth of other ideation techniques.</h3>
   <h2><b>BRAINSTROMING:</b></h2>
       <h3>Brainstorming is a method of generating ideas and sharing knowledge to solve a particular commercial or technical problem, in which participants are encouraged to think without interruption. Brainstorming is a group activity where each participant shares their ideas as soon as they come to mind.</h3>
-![Brainstorming   Idea Prioritization_page-0002](https://user-images.githubusercontent.com/92423989/196219143-c10b3cce-2dbe-4f08-8d93-1b59b1b5504f.jpg)
+<img>![Brainstorming   Idea Prioritization_page-0002](https://user-images.githubusercontent.com/92423989/196219143-c10b3cce-2dbe-4f08-8d93-1b59b1b5504f.jpg)</img>
 ![Brainstorming   Idea Prioritization_page-0003](https://user-images.githubusercontent.com/92423989/196219248-c5576bfd-3065-4cf8-bee5-fa2155f5e390.jpg)
   <h2><b>EMPATHY MAP:</b></h2>
       <h3>An empathy map is a collaborative tool teams can use to gain a deeper insight into their customers. Much like a user persona, an empathy map can represent a group of users, such as a customer segment. The empathy map was originally created by Dave Gray and has gained much popularity within the agile community<h3>
