@@ -1,5 +1,50 @@
 #IBM-project_28819-1660117082!
 ![Smart IOT application](https://user-images.githubusercontent.com/92634704/192141373-fa536515-dab3-4444-8665-f25acfc01052.gif)
+![Green Minimalist The Environtment Presentation (2)](https://user-images.githubusercontent.com/68182137/197342334-f431e6b7-4430-4507-aa77-808d4848b849.png)
+
+![Green Minimalist The Environtment Presentation (3)](https://user-images.githubusercontent.com/68182137/197342583-152b3f42-fbb0-4595-93a2-91cd513abdf0.png)
+
+
+![Green Minimalist The Environtment Presentation (1)](https://user-images.githubusercontent.com/68182137/197342277-0c980f44-6926-4bdc-8f92-df47b35fdfe1.png)
+
+
+
+
+
+
+
+
+![Green Minimalist The Environtment Presentation](https://user-images.githubusercontent.com/68182137/197342173-5e4660ab-a7f7-433c-8363-106f51e19506.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # SmartFarmer IOT Enabled Smart Farming Application:palm_tree:
 :rocket:<b>TECHNOLOGY : INTERNET OF THINGS </b>           
 :rocket:<b>TEAM ID  : PNT2022TMID28579</b>
