@@ -1,92 +1,96 @@
-#IBM-project_28819-1660117082!
-![Smart IOT application](https://user-images.githubusercontent.com/92634704/192141373-fa536515-dab3-4444-8665-f25acfc01052.gif)
-![Green Minimalist The Environtment Presentation (2)](https://user-images.githubusercontent.com/68182137/197342334-f431e6b7-4430-4507-aa77-808d4848b849.png)
 
 ![Green Minimalist The Environtment Presentation (3)](https://user-images.githubusercontent.com/68182137/197342583-152b3f42-fbb0-4595-93a2-91cd513abdf0.png)
 
+<br>
+<div align="center">
+<h1 align="fill" >
+</h1>
 
-![Green Minimalist The Environtment Presentation (1)](https://user-images.githubusercontent.com/68182137/197342277-0c980f44-6926-4bdc-8f92-df47b35fdfe1.png)
+[![](https://img.shields.io/github/contributors/IBM-EPBL/IBM-Project-28819-1660117082)](https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/graphs/contributors)
+[![](https://img.shields.io/github/commits/IBM-EPBL/IBM-Project-28819-1660117082)](https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/graphs/commit-activity)
+[![](https://img.shields.io/github/stars/IBM-EPBL/IBM-Project-28819-1660117082)](https://github.com/IBM-Project-28819-1660117082/stargazers)
+[![](https://img.shields.io/github/issues/IBM-EPBL/IBM-Project-28819-1660117082)](https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/issues)
+  
+<br /> 
+  
+  
+<!-- PROJECT LOGO -->
+  <p align="center">
+  <a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082">
+    <img src="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/blob/main/Images%20%26%20Others/farmer.png" alt="Logo" width="150" height="150">
+  </a>
+<h3 align="center" size=50px>SMARTFARMER - IoT ENABLED SMART FARMING APPLICATION</h3>
+  
+  
+  <p align="center">
+    CATEGORY   : INTERNET OF THINGS <br />
+    TEAM ID    : PNT2022TMID28579 <br />
+    BATCH NO   : B8-2A4E <br />  
+  </p>
+</p>
+  
+  
+<hr>
+</div>
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>TABLE OF CONTENTS</summary>
+  <ol>
+    <li>
+      <a href="#-project-description">PROJECT DESCRIPTION</a>
+    </li>
+    <li>
+      <a href="#-software-required">SOFTWARE REQUIRED</a>
+    </li>
+    <li><a href="#-skills-required">SKILLS REQUIRED</a></li>
+    <li><a href="#-TEAM-MEMBERS">TEAM MEMBERS</a></li>
+    <li><a href="#-ASSIGNMENT-FINISHED">ASSIGNMENT FINISHED</a></li>
+     <ul>
+        <li><a href="#-LINKS">LINKS</a></li>
+        </ul>
+    <li><a href="#-PROJECT-DESIGN-&-PLANNING">PROJECT DESIGN & PLANNING</a></li>
+     <ul>
+        <li><a href="#-IDEATION-PHASE">IDEATION PHASE</a></li>
+           <ul>
+             <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Literature%20Survey">LITERATURE SURVEY</a></li>
+              <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Problem%20Statement">PROBLEM STATEMENT</a></li>
+              <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Empathy%20Map">EMPATHY MAP</a></li>
+              <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Brainstorming">BRAINSTORM</a></li>
+          </ul>
+        <li><a href="#-DESIGN-PHASE-PHASE">DESIGN PHASE</a></li>
+        <ul>
+        <li><a href="#-DESIGN-PHASE-01">DESIGN PHASE 01</a></li>
+           <ul>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/Solution%20Architecture">SOLUTION ARCHITECTURE</a></li>
+        </ul>
+             <ul>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/Problem%20Solution%20Fit">PROBLEM SOLUTION FIT</a></li>
+        </ul>
+             <ul>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/Proposed%20Solution">PROPOSED SOLUTION</a></li>
+        </ul>
+        <li><a href="#-DESIGN-PHASE-02">DESIGN PHASE 02</a></li>
+           <ul>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/Customer%20Journey%20Map">CUSTOMER JOURNEY MAP</a></li>
+        </ul>
+             <ul>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/Data%20Flow%20Diagram%20%26%20User%20Stories">DATA FLOW DIAGRAM & USER STORIES</a></li>
+        </ul>
+             <ul>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/Solution%20Requirements">SOLUTION REQUIREMENTS</a></li>
+        </ul>
+        <ul>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/Technology%20Stack">TECHNOLOGY STACK</a></li>
+        </ul>
+         </ul>
+        <ul>
+        <li><a href="#-IDEATION-PHASE">PROJECT PLANNING</a></li>
+           <ul>
+             <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Planning/Milestone%20%26%20Activity%20Plan">MILESTONE & ACTIVITY LIST</a></li>
+              <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Planning/Sprint%20Delivery%20Plan">SPRINT DELIVERY PLAN</a></li>
+          </ul>
 
+  </ol>
+</details>
+  
 
-
-
-
-
-
-
-![Green Minimalist The Environtment Presentation](https://user-images.githubusercontent.com/68182137/197342173-5e4660ab-a7f7-433c-8363-106f51e19506.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# SmartFarmer IOT Enabled Smart Farming Application:palm_tree:
-:rocket:<b>TECHNOLOGY : INTERNET OF THINGS </b>           
-:rocket:<b>TEAM ID  : PNT2022TMID28579</b>
-# :ear_of_rice: PROJECT DESCRIPTION:
-  <h3>This smart agriculture using IOT system is powered by Arduino, it consists of Temperature sensor, Moisture sensor, water level sensor, DC motor and GPRS module. When the IOT based agriculture monitoring system starts it checks the water level, humidity and moisture level</h3>
-<h3>IoT smart farming solutions is a system that is built for monitoring the crop field with the help of sensors (light, humidity, temperature, soil moisture, crop health, etc.) and automating the irrigation system. The farmers can monitor the field conditions from anywhere.</h3>
-<h1><b>PROJECT DESIGN AND PLANNING:<b></h1> 
- <h1> ASSIGNMENT:</h1> 
-<b>SHANMUGAM    -  https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Assignment/Shanmugam</b>            
-<b>SHREEDHAREN  -  https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Assignment/Shreedharen</b>          
-<b>SELVARAJ     -  https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Assignment/Sreedhar</b>          
-<b>SHREEDHAR   -  https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Assignment/Sreedhar</b>             
-<h1>IDEATION PHASE</h1>
-      <h3>Ideation is the process where you generate ideas and solutions through sessions such as Sketching, Prototyping, Brainstorming, Brainwriting, Worst Possible Idea, and a wealth of other ideation techniques.</h3>
-  <h2><b>BRAINSTROMING:</b></h2>
-      <h3>Brainstorming is a method of generating ideas and sharing knowledge to solve a particular commercial or technical problem, in which participants are encouraged to think without interruption. Brainstorming is a group activity where each participant shares their ideas as soon as they come to mind.</h3>
-<img>![Brainstorming   Idea Prioritization_page-0002](https://user-images.githubusercontent.com/92423989/196219143-c10b3cce-2dbe-4f08-8d93-1b59b1b5504f.jpg)</img>
-![Brainstorming   Idea Prioritization_page-0003](https://user-images.githubusercontent.com/92423989/196219248-c5576bfd-3065-4cf8-bee5-fa2155f5e390.jpg)
-  <h2><b>EMPATHY MAP:</b></h2>
-      <h3>An empathy map is a collaborative tool teams can use to gain a deeper insight into their customers. Much like a user persona, an empathy map can represent a group of users, such as a customer segment. The empathy map was originally created by Dave Gray and has gained much popularity within the agile community<h3>
-![Empathy_Map_page-0001](https://user-images.githubusercontent.com/92423989/196219347-62eba869-f5a3-43b6-b8ba-0d240ec0c9c9.jpg)
-  <h2><b>LITERATURE SURVEY:</b></h2>
-      <h3>A literature review is a survey of scholarly sources (such as books, journal articles, and theses) related to a specific topic or research question. It is often written as part of a thesis, dissertation, or research paper, in order to situate your work in relation to existing knowledge.</h3>
-![Literature Survey_page-0002](https://user-images.githubusercontent.com/92423989/196219438-ebbb7622-ad2e-441b-bf7e-d03bd5c2c057.jpg)
-![Literature Survey_page-0003](https://user-images.githubusercontent.com/92423989/196219465-0a6b3093-dcca-4cb7-9345-e499655f26ae.jpg)
-  <h2><b>PROBLEM STATEMENT:</b></h2>
-      <h3>A problem statement is a concise description of an issue to be addressed or a condition to be improved upon. It identifies the gap between the current (problem) state and desired (goal) state of a process or product. Focusing on the facts, the problem statement should be designed to address the Five Ws. The first condition of solving a problem is understanding the problem, which can be done by way of a problem statement</h3>
-![Problem Statement_page-0002](https://user-images.githubusercontent.com/92423989/196219545-af90239d-599a-4f61-9483-393978f975ea.jpg)
-<h1>PROJECT DESIGN PHASE I</h1>
-  <h2><b>PROBLEM SOLUTION FIT:</b></h2>
-        <h3>Problem-Solution Fit - this occurs when you have evidence that customers care about certain jobs, pains, and gains. At this stage you've proved the existence of a problem and have designed a value proposition that addresses your customers' jobs, pains and gains</h3>
-  <h2><b>PROPOSED SOLUTION:</b></h2>
-        <h3>Your proposed solution should relate the current situation to a desired result and describe the benefits that will accrue when the desired result is achieved. So, begin your proposed solution by briefly describing this desired result</h3>
-  <h2><b>SOLUTION ARCHITECTURE:</b></h2>
-        <h3>A solution architecture (SA) is an architectural description of a specific solution. SAs combine guidance from different enterprise architecture viewpoints (business, information and technical), as well as from the enterprise solution architecture (ESA).</h3>
-<h1>PROJECT DESIGN PHASE II</h1>
-  <h2><b>CUSTOMER JOURNEY MAP:</b></h2>
-        <h3>A customer journey map is a visual storyline of every engagement a customer has with a service, brand, or product. The creation of a journey map puts the organization directly in the mind of the consumer, so they can see and understand their customer's processes, needs, and perceptions.</h3>
-  <h2><b>DATAFLOW DIAGRAM & USER STORIES:</b></h2>
-        <h3>A data flow diagram shows the way information flows through a process or system. It includes data inputs and outputs, data stores, and the various subprocesses the data moves through. DFDs are built using standardized symbols and notation to describe various entities and their relationships</h3>
-        <h3>A user story is an informal, general explanation of a software feature written from the perspective of the end user or customer. The purpose of a user story is to articulate how a piece of work will deliver a particular value back to the customer</h3>
-  <h2><b>SOLUTION REQUIREMENTS:</b></h2>
-        <h3>A solution requirement is aimed at the concerns of the people who will build and deliver the solution. It tells those people what the functional and non-functional requirements for the solution will be and how the solution will deliver on the business and stakeholder requirements</h3>
-  <h2><b>TECHNOLOGY STACK:</b></h2>
-        <h3>A tech stack is the combination of technologies a company uses to build and run an application or project. Sometimes called a “solutions stack,” a tech stack typically consists of programming languages, frameworks, a database, front-end tools, back-end tools, and applications connected via APIs</h3>
