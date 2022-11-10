@@ -110,13 +110,4 @@ hi
   <h1>:ear_of_rice:</h1>
     <h1>:ear_of_rice:</h1>
                                                                                                      
-     <h1>:ear_of_rice:</h1>
-    <h1>:MIT app is basically usein this project:</h1>
-                                                                         
- <li><a href="#-IDEATION-PHASE">IDEATION PHASE</a></li>
-           <ul>
-              <li><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Literature_Survey">LITERATURE SURVEY</a></li>
-              <li><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Problem_Statement">PROBLEM STATEMENT</a></li>
-              <li><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Empathy_Map">EMPATHY MAP</a></li>
-              <li><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Brainstorm%20%26%20Ideation">BRAINSTORM</a></li>
-              <li><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Ideation_Phase/Brainstorm%20%26%20Ideation">3 IDEAS</a></li>
+    
