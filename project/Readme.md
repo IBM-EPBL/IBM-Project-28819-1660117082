@@ -100,3 +100,5 @@ hi
     <h1>:hello:</h1>
 
 <i>Loved the project? Please consider [donating](https://paypal.me/abhisheknaiidu) to help it improve!</i>
+
+    <i>A curated list of awesome Github Profile READMEs</i>
