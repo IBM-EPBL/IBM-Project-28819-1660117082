@@ -109,8 +109,8 @@ hi
     <h1>temperture sensor:</h1>
   <h1>:ear_of_rice:</h1>
     <h1>:ear_of_rice:</h1>
-                                                                                                     
-    DOCUMENTATION:
+   <h1>DOCUMENTATION:</h1>                                                                                                  
+  
 
  - There is a lot of documentation available both in electronic form on
    the Internet and in books, both Linux-specific and pertaining to
