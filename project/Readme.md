@@ -110,4 +110,25 @@ hi
   <h1>:ear_of_rice:</h1>
     <h1>:ear_of_rice:</h1>
                                                                                                      
-    
+    DOCUMENTATION:
+
+ - There is a lot of documentation available both in electronic form on
+   the Internet and in books, both Linux-specific and pertaining to
+   general UNIX questions.  I'd recommend looking into the documentation
+   subdirectories on any Linux FTP site for the LDP (Linux Documentation
+   Project) books.  This README is not meant to be documentation on the
+   system: there are much better sources available.
+
+ - There are various README files in the Documentation/ subdirectory:
+   these typically contain kernel-specific installation notes for some 
+   drivers for example. See Documentation/00-INDEX for a list of what
+   is contained in each file.  Please read the Changes file, as it
+   contains information about the problems, which may result by upgrading
+   your kernel.
+
+ - The Documentation/DocBook/ subdirectory contains several guides for
+   kernel developers and users.  These guides can be rendered in a
+   number of formats:  PostScript (.ps), PDF, HTML, & man-pages, among others.
+   After installation, "make psdocs", "make pdfdocs", "make htmldocs",
+   or "make mandocs" will render the documentation in the requested format.
+
