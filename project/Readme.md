@@ -132,7 +132,3 @@ hi
    After installation, "make psdocs", "make pdfdocs", "make htmldocs",
    or "make mandocs" will render the documentation in the requested format.
   
- 
-
-  
-  
