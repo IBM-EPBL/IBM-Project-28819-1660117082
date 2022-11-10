@@ -32,7 +32,7 @@
   
 <hr>
 </div>
-<!-- TABLE OF CONTENTS  -->
+<!-- TABLE OF CONTENTS -->
 <details>
   <summary>TABLE OF CONTENTS</summary>
   <ol>
