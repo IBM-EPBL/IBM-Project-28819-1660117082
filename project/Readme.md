@@ -99,16 +99,7 @@ hi
     <h1>:ear_of_rice:</h1>
     <h1>:hello:</h1>
 
-<i>Loved the project? Please consider [donating](https://paypal.me/abhisheknaiidu) to help it improve!</i>
-
-    <i>A curated list of awesome Github Profile READMEs</i>
-    
-    <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
-
-    <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" 
-                                                                                                       
- https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
- https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default_repocard                                                                                                      
+<
                                                                                                        
                                                                                                      
                                                                                                        
