@@ -108,7 +108,8 @@ hi
   <h1>:ear_of_rice:</h1>
     <h1>temperture sensor:</h1>
   <h1>:ear_of_rice:</h1>
-    <h1>weather checking:</h1>
+    <h1>:ear_of_rice:</h1>
                                                                                                      
-                                                                                                       
+     <h1>:ear_of_rice:</h1>
+    <h1>:MIT app is basically usein this project:</h1>
                                                                          
