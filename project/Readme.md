@@ -94,19 +94,19 @@
 </details>
   
 
-hi
+Hi
 :evergreen_tree:
     <h1>:ear_of_rice:</h1>
-    <h1>:hello:</h1>
+    <h1>:Hello:</h1>
 
 <<h1>:ear_of_rice:</h1>
-    <h1>farmed based agriculture:</h1>
+    <h1>Farmed based agriculture:</h1>
  <h1>:ear_of_rice:</h1>
-    <h1>nedd for these project:</h1>
+    <h1>Need for these project:</h1>
   <h1>:ear_of_rice:</h1>
-    <h1>compoents are:</h1>
+    <h1>Compoents are:</h1>
   <h1>:ear_of_rice:</h1>
-    <h1>temperture sensor:</h1>
+    <h1>Temperture sensor:</h1>
   <h1>:ear_of_rice:</h1>
     <h1>:ear_of_rice:</h1>
    <h1>DOCUMENTATION:</h1>                                                                                                  
