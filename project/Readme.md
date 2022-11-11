@@ -107,8 +107,9 @@ Hi
     <h1>Compoents are:</h1>
   <h1>:ear_of_rice:</h1>
     <h1>Temperture sensor:</h1>
-  <h1>:ear_of_rice:</h1>
-    <h1>:ear_of_rice:</h1>
+ 
+ <h1>:ear_of_rice:</h1>
+   
    <h1>DOCUMENTATION:</h1>                                                                                                  
   
 
@@ -125,5 +126,6 @@ Hi
    is contained in each file.  Please read the Changes file, as it
    contains information about the problems, which may result by upgrading
    your kernel.
-.
+
+
   
