@@ -97,12 +97,14 @@
 Hi
 :evergreen_tree:
     <h1>:ear_of_rice:</h1>
-    <h1>:Hello:</h1>
+    
 
 <<h1>:ear_of_rice:</h1>
-    <h1>Farmed based agriculture:</h1>
+    <h1>Farmeing based agriculture:</h1>
+   <h3> Agriculture is the art and science of cultivating the soil, growing crops and raising livestock. It includes the preparation of plant and animal products for people to use and their distribution to markets. Agriculture provides most of the world's food and fabrics.</h3>
  <h1>:ear_of_rice:</h1>
-    <h1>Need for these project:</h1>
+    <h1>requirement of project:</h1>
+    <h3>Knowledge of seeds, crops, mechanism, soil, climate, & agriculture science. Right use of resources like soil and water. Time management. Market demand drive production.</h3>
   <h1>:ear_of_rice:</h1>
     <h1>Compoents are:</h1>
   <h1>:ear_of_rice:</h1>
