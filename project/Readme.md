@@ -100,7 +100,7 @@ Hi
     
 
 <<h1>:ear_of_rice:</h1>
-    <h1>Farmeing based agriculture:</h1>
+    <h1>Farming based agriculture:</h1>
    <h3> Agriculture is the art and science of cultivating the soil, growing crops and raising livestock. It includes the preparation of plant and animal products for people to use and their distribution to markets. Agriculture provides most of the world's food and fabrics.</h3>
  <h1>:ear_of_rice:</h1>
     <h1>requirement of project:</h1>
