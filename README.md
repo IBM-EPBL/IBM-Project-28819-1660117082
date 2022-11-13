@@ -27,7 +27,7 @@
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=ffffff)](https://www.rabbitmq.com/)
 [![Kafka](https://img.shields.io/badge/-Kafka-000000?style=flat-square&logo=Apache%20kafka&logoColor=ffffff)](https://kafka.apache.org/)
 
-[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=IBM&logoColor=%23ffffff)](https://www.ibm.com/in-en/cloud)
+[![Git](https://img.shields.io/badge/-IBM-%23F05032?style=flat-square&logo=IBM&logoColor=%23ffffff)](https://www.ibm.com/in-en/cloud)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 
