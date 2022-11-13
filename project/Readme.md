@@ -7,7 +7,7 @@
 </h1>
 
 [![](https://img.shields.io/github/contributors/IBM-EPBL/IBM-Project-28819-1660117082)](https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/graphs/contributors)
-[![](https://img.shields.io/github/commits/IBM-EPBL/IBM-Project-28819-1660117082)](https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/graphs/commit-activity)
+[![](https://img.shields.io/github/traffic/IBM-EPBL/IBM-Project-28819-1660117082)](https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/graphs/traffic)
 [![](https://img.shields.io/github/stars/IBM-EPBL/IBM-Project-28819-1660117082)](https://github.com/IBM-Project-28819-1660117082/stargazers)
 [![](https://img.shields.io/github/issues/IBM-EPBL/IBM-Project-28819-1660117082)](https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/issues)
   
@@ -83,16 +83,155 @@
         <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/Technology%20Stack">TECHNOLOGY STACK</a></li>
         </ul>
          </ul>
-        <ul>
+        </u1>
         <li><a href="#-IDEATION-PHASE">PROJECT PLANNING</a></li>
            <ul>
              <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Planning/Milestone%20%26%20Activity%20Plan">MILESTONE & ACTIVITY LIST</a></li>
               <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Planning/Sprint%20Delivery%20Plan">SPRINT DELIVERY PLAN</a></li>
           </ul>
-
+          </ul>
+   <li>
+            <a href="#-project-description">PROJECT DEVELOPMENT PHASE</a>
+        </li>
+        <ul>
+        <li><a
+                    href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Planning/Milestone%20%26%20Activity%20Plan">SPRINT 1</a></li>
+            <li><a
+                    href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Planning/Sprint%20Delivery%20Plan">SPRINT 2</a></li>
+                    <li><a
+                    href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Planning/Milestone%20%26%20Activity%20Plan">SPRINT 3</a></li>
+            <li><a
+                    href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Planning/Sprint%20Delivery%20Plan">SPRINT 4</a></li>
+        </ul>
+        <li><a href="#-project-description">FINAL DELIVERABLES</a></li>
   </ol>
+  
 </details>
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Hi
 :evergreen_tree:
