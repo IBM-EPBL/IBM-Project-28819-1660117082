@@ -8,7 +8,8 @@
 <h3>IoT smart farming solutions is a system that is built for monitoring the crop field with the help of sensors (light, humidity, temperature, soil moisture, crop health, etc.) and automating the irrigation system. The farmers can monitor the field conditions from anywhere.</h3>
 <h2>PROJECT DESIGN AND PLANNING:</h2>
 <h3>We usually creat MIT app which is used to connect with clode to fetch real time information </h3>
-
+<h3>and also with help of firebase and nodered we optain real time temperature</h3>
+<h3>,humidity ,weather and moter on off for water pouring in agniculture</h3>
 ## Technology Stack
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
