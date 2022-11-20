@@ -112,8 +112,12 @@
   
 
 
-
-
+<h1> Ideation & Brainstorming</h1>
+ 
+<h5> Brainstorming is a method of generating ideas and sharing knowledge to solve a particular
+commercial or technical problem, in which participants are encouraged to think without
+interruption. Brainstorming is a group activity where each participant shares their ideas as
+soon as they come to mind.</h5>
 
 
 
