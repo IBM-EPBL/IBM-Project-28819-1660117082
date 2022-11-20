@@ -7,7 +7,7 @@
 </h1>
 
 [![](https://img.shields.io/github/contributors/IBM-EPBL/IBM-Project-28819-1660117082)](https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/graphs/contributors)
-[![](https://img.shields.io/github/traffic/IBM-EPBL/IBM-Project-28819-1660117082)](https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/graphs/traffic)
+[![](https://img.shields.io/github/forks/IBM-EPBL/IBM-Project-28819-1660117082)](https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/network/members)
 [![](https://img.shields.io/github/stars/IBM-EPBL/IBM-Project-28819-1660117082)](https://github.com/IBM-Project-28819-1660117082/stargazers)
 [![](https://img.shields.io/github/issues/IBM-EPBL/IBM-Project-28819-1660117082)](https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/issues)
   
@@ -104,6 +104,8 @@
                     href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Project%20Design%20%26%20Planning/Project%20Planning/Sprint%20Delivery%20Plan">SPRINT 4</a></li>
         </ul>
         <li><a href="#-project-description">FINAL DELIVERABLES</a></li>
+           <ul>
+             <li><a href="https://github.com/IBM-EPBL/IBM-Project-28819-1660117082/tree/main/Final%20Deliverables">LINK</a></li>
   </ol>
   
 </details>
@@ -232,8 +234,6 @@
 
 
 
-
-Hi
 :evergreen_tree:
     <h1>:ear_of_rice:</h1>
     
