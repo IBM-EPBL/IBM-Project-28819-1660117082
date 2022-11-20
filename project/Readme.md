@@ -140,11 +140,29 @@ lives to provide food for the country.</h5>
 climate change and saving energy resources where possible.</h4>
 <h1>Objectives:</h1>
 <h4> Enables farmers to monitor the live data from sensors
- Low cost setup
+  
+  
+Low cost setup
+  
  Control the devices/motors via application
+  
  Create an application for interaction and viewing the live data
+  
  Create web-UI to access the data across the devices.
+  
  Integrate sensors to cloud</h4>
+
+<h1>Assumptions, Risks, Obstacles:</h1>
+<h4> Need proper internet connection
+  
+
+
+Advanced Farming is the lack of awareness among consumers.
+
+ Due to various service providers, it becomes really difficult to maintain interoperability
+between different IoT systems.
+
+ A scalable solution that can be integrated with thousands of IoT devices for large farms.</h4>
 
 
 
