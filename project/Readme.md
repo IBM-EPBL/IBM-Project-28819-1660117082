@@ -128,6 +128,13 @@ soon as they come to mind.</h5>
 
 ![pngtree-agriculture-icon](https://user-images.githubusercontent.com/92634704/202895672-8d7031c2-4df9-4b29-8d57-cd7a6d0429ca.jpg)
 
+<h1>Problem/Opportunity:</h1>
+<h5>Farmers are to be present at farm for its maintenance irrespective of the weather conditions. They
+have to ensure that the crops are well watered and the farm status is monitored by them
+physically. Farmer have to stay most of the time in field in order to get a good yield. In difficult
+times like in the presence of pandemic also they have to work hard in their fields risking their
+lives to provide food for the country.</h5>
+
 
 
 
