@@ -135,6 +135,17 @@ physically. Farmer have to stay most of the time in field in order to get a good
 times like in the presence of pandemic also they have to work hard in their fields risking their
 lives to provide food for the country.</h5>
 
+<h1>Goal:</h1>
+<h4>Sustainably increasing agricultural productivity and incomes. Adapting and building resilience to
+climate change and saving energy resources where possible.</h4>
+<h1>Objectives:</h1>
+<h4> Enables farmers to monitor the live data from sensors
+ Low cost setup
+ Control the devices/motors via application
+ Create an application for interaction and viewing the live data
+ Create web-UI to access the data across the devices.
+ Integrate sensors to cloud</h4>
+
 
 
 
