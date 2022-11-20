@@ -119,15 +119,8 @@ commercial or technical problem, in which participants are encouraged to think w
 interruption. Brainstorming is a group activity where each participant shares their ideas as
 soon as they come to mind.</h5>
 
-<h1>PROJECT DESIGN</h1>
- <h2>Data Flow Diagrams</h3>
-<h5> A data flow diagram (DFD) is a graphical or visual representation using a
-standardized set of symbols and notations to describe a business's operations through
-data movement. They are often elements of a formal methodology such as Structured
-Systems Analysis and Design Method (SSADM).
-A neat and clear DFD can depict the right amount of the system requirement graphically. It
-shows how data enters and leaves the system, what changes the information, and where
-data is stored.<h5>
+<h1>PROJECT</h1>
+ 
 
   
 
